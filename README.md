@@ -16,5 +16,7 @@ We can deploy it on any web server
 
 ## How to contribute
 
+Please fork this repo and then issue a pull request for review
+
 ### COPYRIGHT
 This content is copyrighted
