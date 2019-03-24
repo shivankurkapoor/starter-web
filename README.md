@@ -15,3 +15,6 @@ This is an example to show different parts of git repo and various commands usin
 We can deploy it on any web server
 
 ## How to contribute
+
+### COPYRIGHT
+This content is copyrighted
