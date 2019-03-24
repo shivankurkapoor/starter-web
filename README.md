@@ -12,7 +12,7 @@ This is an example to show different parts of git repo and various commands usin
 
 ## Deployment
 
-We can deploy it on any web server
+We can deploy it on AWS
 
 ## How to contribute
 
