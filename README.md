@@ -19,4 +19,4 @@ We can deploy it on AWS
 Please fork this repo and then issue a pull request for review
 
 ### COPYRIGHT
-This content is copyrighted
+This content is copyrighted. All rights reserved
